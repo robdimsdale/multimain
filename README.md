@@ -1,2 +1,2 @@
-# two-executables
-Example golang app with two executables for testing purposes
+# multimain
+Example golang app with multiple executables for testing purposes
