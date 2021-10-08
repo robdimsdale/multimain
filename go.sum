@@ -1,0 +1,4 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/robdimsdale/uuid v0.0.0-20211008161747-5c0b1cc2c2fd h1:cssh4iUc2N/XnAC/N+CSm5kJ6LgBhS9VQzyudNjtCVo=
+github.com/robdimsdale/uuid v0.0.0-20211008161747-5c0b1cc2c2fd/go.mod h1:cUaL8YENNkn1Nfo6Zk/aXJ09JQ9w8a8P2hvaQhAD8ys=
